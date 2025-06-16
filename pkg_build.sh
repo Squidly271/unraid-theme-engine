@@ -1,3 +1,3 @@
 #!/bin/bash
 cd source/theme.engine
-pkg_build.sh
+./pkg_build.sh
